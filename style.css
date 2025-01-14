@@ -1,0 +1,17 @@
+:root{
+    --booleaner-sfondopattern: #4ea0ff;
+    --booleaner-titletable: #20a9e5;
+    --booleaner-column: #b1e5f2;
+    --booleaner-text: #ffff00;
+}
+#site_header
+{ width: 1200px;
+  background-color: var(--booleaner-sfondopattern);
+  text-align: center;     
+}
+#pattern{
+    width: 200px;
+}
+#logo {
+    width: 200px;
+}
